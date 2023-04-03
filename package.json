@@ -1,7 +1,7 @@
 {
-  "name": "MTS4YOU",
+  "name": "CAILIN OR CAIER",
   "version": "2.5.0",
-  "description": "Jangan Ubah Nama Di Atas",
+  "description": "UNGU ATAU MERAH???",
   "main": "dian.js",
   "type": "commonjs",
   "scripts": {
@@ -18,7 +18,7 @@
     "bot-md",
     "multi-device"
   ],
-  "author": "MTS4YOU",
+  "author": "CAILIN OR CAIER",
   "license": "MIT",
   "dependencies": {
     "@adiwajshing/baileys": "^4.3.0",
