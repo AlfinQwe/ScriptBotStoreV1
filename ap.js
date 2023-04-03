@@ -22,13 +22,13 @@ chats: {},
 ...(global.db || {})
 }
 
-global.ownerName = '𝐌𝐓𝐒𝟒𝐘𝐎𝐔'//ubah nama lu
-global.botName = '𝐁𝐎𝐓 𝐌𝐓𝐒'//ubah nama bot lu
-global.author = '© 𝐌𝐓𝐒𝟒𝐘𝐎𝐔'//ubah keinginan mu
-global.packname = '𝐁𝐎𝐓 𝐌𝐓𝐒'//ubah keinginan mau
-global.ownerNumber = ["628989105685@s.whatsapp.net"]//ubah nomer lu
+global.ownerName = 'Mukhammad Alfin Hidayatulloh'//ubah nama lu
+global.botName = 'CAIER'//ubah nama bot lu
+global.author = '© CAILIN'//ubah keinginan mu
+global.packname = 'CAIER AND CAILIN'//ubah keinginan mau
+global.ownerNumber = ["6289699565795@s.whatsapp.net"]//ubah nomer lu
 global.prefa = ['','.']
-global.yt = 'http://youtube.com/@melliafriska'//ubah nama yt lu
+global.yt = 'http://youtube.com/@AlfinQWe'//ubah nama yt lu
 global.mess = {
 wait: 'PROSES...',
 succes: 'SUKSES✓',
@@ -353,7 +353,7 @@ tekssss = `
 ╠.  Untuk Allpay Silahkah scan qr di atas
 ╠.  dan jangan lupa kirim bukti tf dan kirim
 ╠.  bukti transfer atas nama
-╠ ❐ : wa.me/6281226416919
+╠ ❐ : wa.me/6289699565795
 ╠.  
 ╚═════════════✪`
 ardian.reply(tekssss)
@@ -362,7 +362,7 @@ case 'tsel':
 tekssss = `
 ╔═══════✪ ❤️ OVO 
 ╠.  Ini Adalah Nomer OVO Saya
-╠ ❐ : 081226416919
+╠ ❐ : 089699565795
 ╠.  
 ╚═════════════✪`
 ardian.reply(tekssss)
@@ -372,7 +372,7 @@ tekssss = `
 ╔═══════✪ ✅ GOPAY 
 ╠   SILAHKAN SCAN QR DI ATAS ATAU
 ╠   Ini Nomer Gopay Saya
-╠ ❐ : 081226416919
+╠ ❐ : 089699565795
 ╠.  
 ╚═════════════✪`
 ardian.reply(tekssss)
@@ -382,7 +382,7 @@ tekssss = `
 ╔═══════✪ ☑️ DANA 
 ╠.  SILAHKAN SCAN QR DI ATAS ATAU
 ╠   Ini Nomer Dana Saya
-╠ ❐ : 081226416919
+╠ ❐ : 089699565795
 ╠.  
 ╚═════════════✪`
 ardian.reply(tekssss)
@@ -390,8 +390,8 @@ break
 case 'donasi': case 'donate':
 tekssss = `╔═══════✪ DONASI
 ╠➥ : SILAHKAN DONASI LEWAT SINI KAK
-╠➥ : DANA : 081226416919
-╠➥ : GOPAY : 081226416919
+╠➥ : DANA : 089699565795
+╠➥ : GOPAY : 089699565795
 ╠➥ : ALLPAY : SCAN LEWAT SITU KAK
 ╚═════════════✪`
 ardian.reply(tekssss)
